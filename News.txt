@@ -1,0 +1,7 @@
+[DATE: "16-02-2024"]
+# Preparing for Launch Day (16.02.2024)
+
+Special Characteres update
+
+Spent the last two days with something english speaker do not have to worry about that much. Special characters :D. You know the strange chars like äöü wich non english speakers tend to use in their languages. Its a lot of fun to implement (oh I hate/love polishing). Anyway I made it and also added mod support to it. So technically a localization into japanese, chinese and the like is no possible. And yes if you want to, you can do it yourself using my simple modding tools.
+Next Step "recordings for the trailer"
