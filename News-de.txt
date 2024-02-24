@@ -1,0 +1,7 @@
+[DATE: "24-02-2024"]
+#App Release vorbereiten
+
+(02/24/2024)
+
+Hauptthema momentan: "Testing" und "Polishing" der finalen Version der Prolog Version. Ich verbringe viel Zeit damit kleinere und grössere Bugs zu beheben, aber auch das Modding weiter zu erleichtern.
+Vergiss nicht auf dem Discord vorbeizuschauen!
