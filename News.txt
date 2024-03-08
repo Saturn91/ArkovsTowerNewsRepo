@@ -1,7 +1,6 @@
-[DATE: "24-02-2024"]
-#Polishing and Testing
+[DATE: "08-03-2024"]
+#Releasing the Prologue
 
-(02/24/2024)
+(08/28/2024)
 
-As the title sais, my main topic currenetly is testing and polishing of the final prolog version. I spend most of my time fixing the smaller and bigger bugs reproted by my testers and improving the modding experience.
-Don't forget to hop into the discord and say hi :D (link in Mainmenu).
+The main focus at the moment is marketing and finishing the final touches before the Release of the prologue on March 22, 2024. Stay tuned!

@@ -1,7 +1,6 @@
-[DATE: "24-02-2024"]
-#App Release vorbereiten
+[DATE: "08-03-2024"]
+#Releasen des Prologs
 
-(02/24/2024)
+(28. März 2024)
 
-Hauptthema momentan: "Testing" und "Polishing" der finalen Version der Prolog Version. Ich verbringe viel Zeit damit kleinere und grössere Bugs zu beheben, aber auch das Modding weiter zu erleichtern.
-Vergiss nicht auf dem Discord vorbeizuschauen!
+Mein Hauptfokus liegt momentan auf Marketing und den finalen kleineren Fixes die vor dem Release am 22. März 2024 noch anstehen, es bleibt spannend.
