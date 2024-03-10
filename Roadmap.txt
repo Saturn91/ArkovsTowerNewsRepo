@@ -12,3 +12,6 @@ Content Update (Area 3)
 #
 # 26th April 24
 Surprise
+#
+#July 2024
+fullversion release
