@@ -1,6 +1,10 @@
-[DATE: "08-03-2024"]
-#Releasen des Prologs
+[DATE: "03-22-2024"]
+#Releasing the Prologue
 
-(28. März 2024)
+(22. März 2024)
 
-Mein Hauptfokus liegt momentan auf Marketing und den finalen kleineren Fixes die vor dem Release am 22. März 2024 noch anstehen, es bleibt spannend.
+Heute veröffentliche ich den Prolog! Er besteht aus drei Levels und einem Endboss. Diese gilt es nun auf drei Schwierigkeitsgrade zu schlagen. Ich freue mich auf euer Feedback und Bug-Reports über Steam Posts.
+
+Wenn ihr die 3 Levels durchgespielt habt, könnt ihr euch auf das nächste Inhalts-Update in zwei Wochen freuen, dort werde ich weiter 3 Levels hinzu fügen. Wem das immmer noch nicht genügt, der darf sehr gerne einen Blick ins Mod Menu werfen.
+
+Momentan ist es für euch als Modder möglich sämtliche Texte, Grafiken und Konfigurationen zu verändern. Die Vollversion welche im Juni kommt wird auch Lua Scripting erlauben.

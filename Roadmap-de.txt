@@ -1,8 +1,8 @@
-[DATE: "08-03-2024"]
+[DATE: "22-03-2024"]
 #Roadmap
 # 
 #22. März 2024
-Release Prologe
+Release Prolog
 # 
 #5. April 2024
 Inhalts update (Area 2)
@@ -11,7 +11,7 @@ Inhalts update (Area 2)
 Inhalts Update (Area 3)
 #
 #26. April
-Überraschung
+Überraschungs Update
 #
 #Juli 2024
 Release der Vollversion
