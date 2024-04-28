@@ -1,17 +1,17 @@
 [DATE: "22-03-2024"]
 #Roadmap
 # 
-#22. März 2024
-Release Prolog
+#22. März 2024[POST-DATE:"2024-03-22"]
+Release Prolog[POST-DATE:"2024-03-22"]
 # 
-#5. April 2024
-Inhalts update (Area 2)
+#5. April 2024[POST-DATE:"2024-04-05"]
+Inhalts update (Area 2)[POST-DATE:"2024-04-05"]
 #
-#19. April 2024
-Inhalts Update (Area 3)
+#19. April 2024[POST-DATE:"2024-04-19"]
+Inhalts Update (Area 3)[POST-DATE:"2024-04-19"]
 #
-#28. April (updated)
-Überraschungs Update
+#28. April (updated)[POST-DATE:"2024-04-28"]
+Überraschungs Update[POST-DATE:"2024-04-28"]
 #
-#Juli 2024
-Release der Vollversion
+#Juli 2024[POST-DATE:"2024-06-30"]
+Release der Vollversion[POST-DATE:"2024-06-30"]
