@@ -1,8 +1,5 @@
-[DATE: "22-03-2024"]
+[DATE: "11-05-2024"]
 #Roadmap
-# 
-#22nd March 2024[POST-DATE:"2024-03-22"]
-Release Prologue[POST-DATE:"2024-03-22"]
 # 
 #5th April 2024[POST-DATE:"2024-04-05"]
 Content Update (Area 2)[POST-DATE:"2024-04-05"]
@@ -11,7 +8,10 @@ Content Update (Area 2)[POST-DATE:"2024-04-05"]
 Content Update (Area 3)[POST-DATE:"2024-04-19"]
 #
 # 28th April 2024[POST-DATE:"2024-04-28"]
-Surprise Update[POST-DATE:"2024-04-28"]
+Vampire Update[POST-DATE:"2024-04-28"]
+#
+# 11th May 2024[POST-DATE:"2024-05-11"]
+Patch 1.0.31[POST-DATE:"2024-05-11"]
 #
 #July 2024[POST-DATE:"2024-06-30"]
 Full Version Release[POST-DATE:"2024-06-30"]
