@@ -13,5 +13,5 @@ Vampire Update[POST-DATE:"2024-04-28"]
 # 11. Mai 2024[POST-DATE:"2024-05-11"]
 Patch 1.0.31[POST-DATE:"2024-05-11"]
 #
-#Juli 2024[POST-DATE:"2024-06-30"]
-Release der Vollversion[POST-DATE:"2024-06-30"]
+#September 2024[POST-DATE:"2024-09-30"]
+Release der Vollversion[POST-DATE:"2024-09-30"]
