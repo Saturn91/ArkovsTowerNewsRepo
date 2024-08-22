@@ -13,5 +13,5 @@ Patch 1.0.31[POST-DATE:"2024-05-11"]
 # 09. Juni 2024[POST-DATE:"2024-06-09"]
 Vampir Patch (balancing) [POST-DATE:"2024-06-09"]
 #
-#September 2024[POST-DATE:"2024-09-30"]
-Release der Vollversion[POST-DATE:"2024-09-30"]
+#Oktober 2024[POST-DATE:"2024-10-31"]
+Release der Vollversion[POST-DATE:"2024-10-31"]
