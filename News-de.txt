@@ -1,10 +1,10 @@
-[DATE: "03-22-2024"]
-#Releasing the Prologue
+[DATE: "31-10-2024"]
+#Release der Vollversion
 
-(22. März 2024)
+(31. Oktober 2024)
 
-Heute veröffentliche ich den Prolog! Er besteht aus drei Levels und einem Endboss. Diese gilt es nun auf drei Schwierigkeitsgrade zu schlagen. Ich freue mich auf euer Feedback und Bug-Reports über Steam Posts.
+Nach wochenlanger harter Arbeit um die Vollversion zu vollenden, habe ich heute die VOllversion veröffentlicht.
 
-Wenn ihr die 3 Levels durchgespielt habt, könnt ihr euch auf das nächste Inhalts-Update in zwei Wochen freuen, dort werde ich weiter 3 Levels hinzu fügen. Wem das immmer noch nicht genügt, der darf sehr gerne einen Blick ins Mod Menu werfen.
+Vielen Dank für das kaufen der Vollversion. Bitte überlege dir auch ob du kurz 5min Zeit hast eine Steambewertung zu verfassen. 
 
-Momentan ist es für euch als Modder möglich sämtliche Texte, Grafiken und Konfigurationen zu verändern. Die Vollversion welche im Juni kommt wird auch Lua Scripting erlauben.
+Steam Bewertungen sind die beste Möglichkeit ein neues Spiel zu unterstützen.
