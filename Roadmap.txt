@@ -1,8 +1,5 @@
 [DATE: "11-05-2024"]
 #Roadmap
-# 
-#19th April 2024[POST-DATE:"2024-04-19"]
-Content Update (Area 3)[POST-DATE:"2024-04-19"]
 #
 # 28th April 2024[POST-DATE:"2024-04-28"]
 Vampire Update[POST-DATE:"2024-04-28"]
@@ -15,3 +12,6 @@ Vampire Patch (balancing) [POST-DATE:"2024-06-09"]
 #
 #October 2024[POST-DATE:"2024-10-31"]
 Full Version Release[POST-DATE:"2024-10-31"]
+# 
+#3th Nov. 2024[POST-DATE:"2024-11-03"]
+CBalancing Patch 2.0.10[POST-DATE:"2024-11-03"]
