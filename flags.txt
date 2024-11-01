@@ -1,1 +1,1 @@
-message
+game_finished_message
