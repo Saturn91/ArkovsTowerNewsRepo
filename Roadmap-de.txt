@@ -13,5 +13,5 @@ Balancing Patch 2.0.10[POST-DATE:"2024-11-03"]
 # 10. Nov. 2024[POST-DATE:"2024-11-10"]
 Patch 2.0.10[POST-DATE:"2024-11-10"]
 #
-# 17. Nov. 2024(updated)[POST-DATE:"2024-11-17"]
+# 17. Nov. 2024[POST-DATE:"2024-11-17"]
 Paladine Update[POST-DATE:"2024-11-17"]
