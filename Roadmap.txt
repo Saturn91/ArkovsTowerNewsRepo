@@ -1,9 +1,6 @@
 [DATE: "11-05-2024"]
 #Roadmap
 #
-# 9th June 2024[POST-DATE:"2024-06-09"]
-Vampire Patch (balancing) [POST-DATE:"2024-06-09"]
-#
 # October 2024[POST-DATE:"2024-10-31"]
 Full Version Release[POST-DATE:"2024-10-31"]
 # 
@@ -15,3 +12,6 @@ Patch 2.0.11[POST-DATE:"2024-11-10"]
 #
 # 17th Nov. 2024[POST-DATE:"2024-11-17"]
 Paladine Update[POST-DATE:"2024-11-17"]
+#
+# 24th Nov. 2024[POST-DATE:"2024-11-24"]
+Speedrun timer[POST-DATE:"2024-11-24"]
